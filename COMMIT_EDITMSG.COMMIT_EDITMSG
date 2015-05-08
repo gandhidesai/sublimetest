@@ -1,0 +1,17 @@
+Initialize.
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/Hello World.txt b/Hello World.txt
+index b5d8eb1..aa126a9 100644
+--- a/Hello World.txt	
++++ b/Hello World.txt	
+@@ -1,3 +1,3 @@
+ Hello World Testing
+ Again
+-Test 
+\ No newline at end of file
++Test
+\ No newline at end of file
